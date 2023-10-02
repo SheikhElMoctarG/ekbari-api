@@ -1,0 +1,28 @@
+[
+    {
+        "name":"الصحراء ميديا",
+        "url": "https://saharamedias.net/feed/"
+    },
+    {
+        "name":"الأخبار المستقلة",
+        "url": "https://alakhbar.info/?q=rss.xml"
+    },
+    {
+        "name":"مراسلون",
+        "url":"http://mourassiloun.com/taxonomy/term/6/all/feed"
+    },
+    {
+        "name":"الصحراء",
+        "url": "http://essahraa.net/?q=taxonomy/term/1/feed"
+    },{
+        "name":"وكالة كيفة للانباء",
+        "url": "http://kiffainfo.net/spip.php?page=backend"
+    },
+    {
+        "name":"زهرة شنقيط",
+        "url": "https://www.zahraainfo.com/taxonomy/term/1/feed/"
+    },{
+        "name":"ميادين",
+        "url": "http://meyadin.net/taxonomy/term/1/feed"
+    }
+]
